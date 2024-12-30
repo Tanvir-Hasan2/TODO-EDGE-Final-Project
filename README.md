@@ -14,6 +14,9 @@ To run this project, ensure you have the following installed:
 - Virtualenv (optional but recommended)
 - SQLite (default database for Django)
 
+## Project presentation Slide link
+'https://drive.google.com/drive/folders/1BkisFitOnd-_Qy8Szjf7dFc_A47pCWrn?usp=sharing'
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
