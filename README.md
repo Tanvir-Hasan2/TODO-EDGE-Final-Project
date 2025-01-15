@@ -96,12 +96,3 @@ License
 This project is licensed under the MIT License.
 
 Happy coding! 🎉
-
-markdown
-
-### **Steps to Follow**
-1. Replace `https://github.com/Tanvir-Hasan2/TODO-EDGE-Final-Project` with your actual GitHub repository URL.
-2. Add any additional setup steps specific to your project (e.g., configuring environment variables, setting up third-party APIs).
-3. Include a `requirements.txt` file in your repository, which you can generate using:
-   ```bash
-   pip freeze > requirements.txt
